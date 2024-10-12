@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment Directory
+venv/
+
+# Database files
+vault.db
+
+# RSA keys or other sensitive data files
+*.pem
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
